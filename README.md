@@ -1,1 +1,2 @@
-# C39_speed_racer_game
+# C39RV_SpeedRacer_TeacherActivity
+Teacher Activity
